@@ -1,0 +1,342 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Catholicks resolution, or, A serious enquiry whether it be better to turn Independent, Presbyterian, Romane? or continue what I am, Catholick? in matter of religion.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31352</idno>
+            <idno type="STC">Wing C1500</idno>
+            <idno type="STC">ESTC R24131</idno>
+            <idno type="EEBO-CITATION">07952952</idno>
+            <idno type="OCLC">ocm 07952952</idno>
+            <idno type="VID">40707</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31352)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40707)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1201:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Catholicks resolution, or, A serious enquiry whether it be better to turn Independent, Presbyterian, Romane? or continue what I am, Catholick? in matter of religion.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed Anno Dom. 1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Faith and reason.</term>
+               <term>Apologetics --  Early works to 1800.</term>
+               <term>Apologetics --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40707:1"/>
+            <pb facs="tcp:40707:1"/>
+            <p>A Catholicks Reſolution, Or, a Serious ENQUIRY Whether it be Better To turn
+<list>
+                  <item>
+                     <hi>Independent,</hi>
+                  </item>
+                  <item>
+                     <hi>Presbyterian,</hi>
+                  </item>
+                  <item>
+                     <hi>Romane?</hi>
+                  </item>
+               </list> Or continue What I am, <hi>Catholick?</hi> In Matter of RELIGION?</p>
+            <p>
+               <hi>London,</hi> Printed <hi>Anno Dom.</hi> MDCLXVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="part">
+               <pb facs="tcp:40707:2"/>
+               <pb n="3" facs="tcp:40707:2"/>
+               <head>I. <hi>Whether</hi> Independent</head>
+               <p>OF all Religions I think I could make ſome<g ref="char:EOLhyphen"/>what among <hi>Them;</hi> for what Learning I have, will help maintain their Ignorance, and my being a Proſelyte, will promote their Confidence. It's probable I could frame as plauſible a Diſcourſe of the Reaſons inducing me to be of that Perſuaſion, as ſome they have admitted: But before I joyn with them, I ſhall wait a reſolution of the following Queries. And,</p>
+               <p n="1">1. Whether I can eaſily joyn with ſuch, as would Pa<g ref="char:EOLhyphen"/>ganize and make Antichriſtian all the Churches of <hi>Chriſt</hi> in the whole world, except themſelves?</p>
+               <p n="2">2. Whether that be a falſe Church that converts their Members, before they come to be of their Party?</p>
+               <p n="3">3. Or that which would propound a better way for Miniſters maintenance, than God, who hath ordained, <hi>That they that ſerve at the Altar ſhould live by the Altar?</hi>
+               </p>
+               <p n="4">4. And that ſet up ſuch to be Preachers, as have no art nor knowledg in the Tongues?</p>
+               <p n="5">5. That make the whole eſſence of the Miniſterial Call to conſiſt in Election of the people, without <hi>Ordination?</hi>
+               </p>
+               <p n="6">6. That cry down Biſhops, becauſe they cannot preach to all their Flock at once, and yet themſelves gather <hi>Chur<g ref="char:EOLhyphen"/>ches</hi> from <hi>York</hi> to <hi>London,</hi> ſo that many do not ſee the face of their Paſtor once in a year?</p>
+               <p n="7">7. Whether under that Notion all Hereſies have not crept into the Church?</p>
+               <p n="8">8. Whether I ſhall joyn to that Party, who never yet could ſet bounds to themſelves; but do ſtill expect ſome new Diſcoveries for Modification? and whether my con<g ref="char:EOLhyphen"/>ſent
+<pb n="4" facs="tcp:40707:3"/>go that not be more dangerous than the Oath of <hi>&amp;c?</hi>
+               </p>
+               <p n="9">9. Whether I ſhall ſubmit to that Party, that hitherto neither the moſt Religious, the moſt Learned, nor the major part of any Nation ever yet ſubmitted to?</p>
+               <p n="10">10. Whether the firſt and beſt of our Reformers ever thought of or practiſed ſuch a way?</p>
+               <p n="11">11. Whether, were I now to die, I could take com<g ref="char:EOLhyphen"/>fort in their Abſolution, ſeeing not one of them is autho<g ref="char:EOLhyphen"/>rized thereunto? And,</p>
+               <p n="12">12. That would perſuade us that all our Martyrs for the Proteſtant Cauſe, did worſhip God in a wrong way, and therein condemn the Generation of the Juſt?</p>
+               <p>Could Anſwer be brought in to this Jury of Queſti<g ref="char:EOLhyphen"/>ons, That they are <hi>Not guilty,</hi> I could then better <hi>believe</hi> them, and <hi>relieve</hi> my ſelf: For the preſent, my Conſci<g ref="char:EOLhyphen"/>ence not being ſatisfied, I ſhall with them Catholick Cha<g ref="char:EOLhyphen"/>rity, and pray, That as they would ſhun the F<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ock of Su<g ref="char:EOLhyphen"/>perſtition on the one hand: they would likewiſe avoid the Shelve of Separation on the other: And O thou that a<g ref="char:EOLhyphen"/>lone art an <hi>Independent</hi> Being, teach all thine to <hi>depend</hi> upon thee, for counſel and direction, and not to deſpiſe the Churches Communion!</p>
+            </div>
+            <div type="part">
+               <head>II. <hi>Whether</hi> Presbyterian?</head>
+               <p>IT is a <hi>Thriving way,</hi> and I am <hi>poor;</hi> the <hi>tentation</hi> there<g ref="char:EOLhyphen"/>fore is ſtrong: but better enjoy <hi>peace</hi> of <hi>Conſcience,</hi> than the <hi>ſpoils</hi> of <hi>violence;</hi> I ſhall yet propoſe ſome <hi>caſes of conſcience,</hi> and upon their true <hi>Reſolves,</hi> I ſhall either ſhake hands with him, or continue what I am.</p>
+               <p n="1">1. Whether I do not believe, That <hi>Chriſt</hi> taught his <hi>Apoſtles</hi> to pray, and ſay, <hi>Our Father which art in heaven?</hi>
+               </p>
+               <pb n="5" facs="tcp:40707:3"/>
+               <p n="2">2. Whether I do not believe, That the <hi>Apoſtles</hi> did pray, and ſay, as Chriſt taught them, <hi>Our Father which art in heaven?</hi>
+               </p>
+               <p n="3">3. Whether I have done well, to expunge and oblite<g ref="char:EOLhyphen"/>rate that <hi>Prayer, Our Father which art in heaven?</hi>
+               </p>
+               <p n="4">4. Whether I do not believe; That <hi>Chriſt</hi> ſent his <hi>Apo<g ref="char:EOLhyphen"/>ſtles,</hi> as his <hi>Father</hi> ſent <hi>him? Joh.</hi> 20.21.</p>
+               <p n="5">5. Whether I do not believe, That the <hi>Father</hi> ſent Chriſt to be the chief Biſhop of our <hi>Souls?</hi> 1 <hi>Pet.</hi> 2.25.</p>
+               <p n="6">6. Whether I do not believe both theſe <hi>miſſions</hi> to be <hi>jure divino?</hi>
+               </p>
+               <p n="7">7. Whether I do not therefore believe, <hi>Epiſcopacy</hi> to be <hi>jure Divino?</hi>
+               </p>
+               <p n="8">8. Whether I do not believe <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, to be a diffe<g ref="char:EOLhyphen"/>rent word from <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>?</p>
+               <p n="9">9. Whether I do not believe <hi>Biſhop</hi> to be the <hi>name</hi> of <hi>office</hi> and <hi>dignity, Presbyter</hi> to be a <hi>name</hi> of <hi>order</hi> and <hi>duty?</hi>
+               </p>
+               <p n="10">10. Whether I do not believe <hi>Biſhops</hi> are ſometimes called <hi>Presbyters,</hi> becauſe they were <hi>Presbyters</hi> before they were <hi>Biſhops?</hi>
+               </p>
+               <p n="11">11. Whether I do not believe <hi>Presbyters</hi> qua <hi>Presbyters</hi> are never called <hi>Biſhops?</hi>
+               </p>
+               <p n="12">12. Whether I do not believe that St. <hi>Paul ſpake</hi> and <hi>did divinely,</hi> when he conſtituted <hi>Timothy</hi> Biſhop of <hi>Ephe<g ref="char:EOLhyphen"/>ſus,</hi> and <hi>Titus</hi> Biſhop of <hi>Creet,</hi> to overſee, and if need were to rebuke the <hi>Presbyters</hi> there?</p>
+               <p n="13">13. Whether I do not believe St. <hi>Jerome</hi> ſpake <hi>piouſly,</hi> when he ſaid, <hi>Niſi exors quaedam &amp; ab omnibus eminens po<g ref="char:EOLhyphen"/>teſtas Epiſcopo ducetur, tot eſſent Schiſmata, quot Sacerdotes;</hi> That unleſs an <hi>extraordinary</hi> and <hi>peerleſs preheminence</hi> were given to the <hi>Biſhop,</hi> there would be as many <hi>Schiſms</hi> as <hi>Prieſts.</hi>
+               </p>
+               <p n="14">14. Whether I do not believe King <hi>James</hi> ſpake <hi>poli<g ref="char:EOLhyphen"/>tickly</hi>
+                  <pb n="6" facs="tcp:40707:4"/>and <hi>prudently,</hi> when be ſaid, No <hi>Biſhop,</hi> no <hi>King?</hi>
+               </p>
+               <p n="15">15. Whether I do not believe the Primitive Church, and ſo the <hi>Church ſucceſſively</hi> untill of very late years, one <hi>century</hi> and leſs than an half, was governed by <hi>Epiſ<g ref="char:EOLhyphen"/>copacy?</hi>
+               </p>
+               <p n="16">16. Whether therefore I do not believe I have done very <hi>ill</hi> to ſhoulder out <hi>Epiſcopacy,</hi> that I might get into his <hi>Chair?</hi>
+               </p>
+               <p n="17">17. Whether I do not believe that <hi>Thebulis</hi> and <hi>Aë<g ref="char:EOLhyphen"/>rius</hi> were therefore called <hi>Hereticks,</hi> becauſe they would have had an <hi>eccleſiaſtical parity, Biſhop</hi> and <hi>Presbyter</hi> all one?</p>
+               <p n="18">18. Whether I do not believe, The Canon; of the <hi>A<g ref="char:EOLhyphen"/>poſtles</hi> diſtinguiſhed <hi>the three degrees</hi> of <hi>Biſhops, Presbyters</hi> and <hi>Deacons,</hi> and gave the <hi>ſuperiority</hi> to <hi>Biſhops<g ref="char:punc">▪</g> Can.</hi> 4, 6, 7</p>
+               <p n="19">19. Whether I do not believe <hi>Thebulis</hi> and <hi>Aërius</hi> did therefore phanſie <hi>an eccleſiaſtical parity,</hi> becauſe they could not be made <hi>Biſhops,</hi> which they earneſtly affected? <hi>Epi<g ref="char:EOLhyphen"/>phan. Haereſ.</hi> 75.</p>
+               <p n="20">20. Whether I do not believe the <hi>Church of</hi> Jeruſalem was called a <hi>Virgin Church,</hi> and never corrupted, until by <hi>Thebulis,</hi> becauſe he was not made a <hi>Biſhop? Euſ. l.</hi> 4 <hi>c.</hi> 22.</p>
+               <p n="21">21. Whether I do not believe <hi>Ignatius</hi> lived in the A<g ref="char:EOLhyphen"/>poſtles days, and ſaw <hi>Christ</hi> in the fleſh, and being yet a <hi>Bresbyter,</hi> writ to the <hi>Antiochians,</hi> to remember <hi>Evodius</hi> their <hi>Biſhop,</hi> who firſt from the <hi>Apoſtles</hi> received the <hi>ſupe<g ref="char:EOLhyphen"/>riority</hi> above the <hi>Presbyters;</hi> and after being <hi>Biſhop</hi> him<g ref="char:EOLhyphen"/>ſelf, and going to ſuffer under <hi>Trajan,</hi> writ to the <hi>Clergy</hi> and <hi>Presbyters</hi> there, That they would be diligent in feed<g ref="char:EOLhyphen"/>ing their <hi>flo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k,</hi> untill <hi>God</hi> did ſhow unto them, Him that ſhould rule over them after his death? And in another <hi>Epiſtle ad Sard.</hi> thus, <hi>Presbyters</hi> be obedient to your Bi<g ref="char:EOLhyphen"/>ſhops; <hi>Deacons</hi> be obedient to your <hi>Presbyters; Laymen
+<pb n="7" facs="tcp:40707:4"/>be obedient to all:</hi> And after all concludes thus: <hi>My ſoul for theirs that obſerve this order, The Lord be with them.</hi>
+               </p>
+               <p n="22">22. Whether I do not believe <hi>Aërius</hi> was the firſt that voted down all <hi>Faſts. Vigilantius</hi> the firſt that voted down all <hi>Feaſts</hi> appointed by the Church both <hi>Hereticks;</hi> and therefore whether I may not fear, I am ſomething <hi>Heretical</hi> in following their <hi>ſteps?</hi>
+               </p>
+               <p n="23">23. Whether I do not believe, that S. <hi>James</hi> ſet out a <hi>Lyturgie</hi> or book of <hi>Common Prayer,</hi> for the Church in his time; St. <hi>Baſil</hi> the like in his time; St. <hi>Chryſoſtome</hi> the like in his time; and ſo downwards untill Mr. <hi>John Cal<g ref="char:EOLhyphen"/>vins</hi> time?</p>
+               <p n="24">24. Whether I do not bel<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eve, that Mr. <hi>John Calvin</hi> himſelf thought well of <hi>Common Prayers,</hi> and particularly of our <hi>Common Prayer Book,</hi> when he ſaid, <hi>Quod ad formam precum &amp; rituum Eccleſiae, valdè probo, ut certa illa extet, à qua paſtoribus in ſua functione d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſcedere non licet;</hi> Concer<g ref="char:EOLhyphen"/>ning a <hi>Form</hi> of <hi>Prayer,</hi> and <hi>Eccleſiaſtical Rites,</hi> I very well like, that there be a certain and conſtant one, from which the <hi>Paſtors</hi> of the <hi>Church</hi> may in no wiſe depart or vary?</p>
+               <p n="25">25. Whether I do not believe, That every word in the <hi>Common Prayer Book</hi> is in the <hi>Bible,</hi> either <hi>literally</hi> or <hi>ratio<g ref="char:EOLhyphen"/>nally</hi> deduced thence. <hi>v. g.</hi> for the <hi>Confeſſion. Almighty God,</hi> Gen. 17.1. <hi>And moſt merciful Father,</hi> Exod. 34.6. <hi>We have erred and ſtrayed from thy ways like loſt ſheep,</hi> Pſal. 119.176. <hi>We have followed too much the deviſes and deſires of our own hearts,</hi> Jer. 18.12. <hi>We have offended againſt thy holy laws,</hi> Mat. 7.8. <hi>We have left undone thoſe things which we ought to have done,</hi> 1 Sam. 15.24. <hi>And we have done thoſe things which we ought not to have done,</hi> 1 Sam. 24.5. 2 Sam. 12.13. <hi>And there is no health in us,</hi> Pſa. 38.3. <hi>But thou O Lord have mercy upon us miſerable offenders,</hi> Luke 18.13. <hi>Spare thou them O God which confeſs their faults,</hi> Prov. 28.13. <hi>Reſtore
+<pb n="8" facs="tcp:40707:5"/>thou them that be penitent,</hi> Ez. 18.31. <hi>According to thy pro<g ref="char:EOLhyphen"/>miſe declared unto mankind in Chriſt Jeſus our Lord,</hi> Mat. 11 18. <hi>And grant O moſt merciful Father for his ſake,</hi> Joh. 16.23. <hi>That we may hereafter live a godly, righteous, and ſober life,</hi> Titus 2.12. <hi>To the glory of thy holy name,</hi> 1 Tim. 6.16.</p>
+               <p n="26">26. Whether I do not believe the <hi>Abſolution, Almighty God the Father of our Lord Jeſus Chriſt,</hi> be grounded upon, John 20.23.</p>
+               <p n="27">27. Whether I do not believe the <hi>Lords Prayer,</hi> with the <hi>Doxology, Thine is the Kingdom, Power and Clory,</hi> is <hi>ver<g ref="char:EOLhyphen"/>batim</hi> in Mat. 6 and without that <hi>Doxology</hi> in Luke 11.</p>
+               <p n="28">28. Whether I do not believe, thoſe <hi>Verſicles, O God make ſpeed to ſave us,</hi> be not in Pſal. 102.13. <hi>Open thou my lips O Lord. And my mouth ſhall ſhew forth thy praiſe,</hi> Pſal. 51.15.</p>
+               <p>I might be endleſs: to anſwer therefore ſome of your <hi>Grand Objections;</hi> I ask,</p>
+               <p n="29">29. Whether I do not believe, <hi>Remember not Lord our offenſes, nor the offenſes of our forefathers,</hi> is a <hi>ſincere prayer</hi> for the <hi>living, and no ſinful prayer</hi> for the <hi>dead, viz.</hi> That <hi>God</hi> would not viſit the <hi>offenſes</hi> of our <hi>forefathers</hi> upon in their <hi>children,</hi> and grounded upon <hi>Exo</hi> 20. and <hi>Ezek.</hi> 18.</p>
+               <p n="30">30. Whether I do not believe, <hi>From ſudden death good Lord deliver us,</hi> is a <hi>fervent ejaculation,</hi> no <hi>idle deſire,</hi> that <hi>God</hi> would not take us away unpreparedly, until we have made ready <hi>our Accounts?</hi>
+               </p>
+               <p n="31">31. Whether I do not believe, <hi>For all them that travel by land or by water, all women labouring of child</hi> &amp;c. is a <hi>charitable prayer,</hi> and anſwerable to the Apoſtles com<g ref="char:EOLhyphen"/>mand, <hi>Do good to all,</hi> Gal. 6.10. <hi>Pray for all men</hi> 1 Tim 2.3.</p>
+               <p n="32">32. Whether I do not believe, <hi>By thy holy Nativity</hi> &amp; <hi>Circumciſion, by thy Agony and bloudy ſweat</hi> &amp;c. is <hi>obteſta<g ref="char:EOLhyphen"/>tive,</hi> and the ſign of our <hi>Faith,</hi> not <hi>affirmative</hi> and the
+<pb n="9" facs="tcp:40707:5"/>ſign of an <hi>Oath;</hi> deſiring <hi>God</hi> by theſe effectual means of the <hi>Actions</hi> and <hi>Paſsions</hi> of <hi>Jeſus Chriſt,</hi> to deliver us from thoſe <hi>puniſhments</hi> which are due unto us for our ſins.</p>
+               <p n="33">33. Whether I do not believe, the firſt <hi>prayer</hi> in the <hi>Office</hi> of <hi>Matrimony, That God would bleſſe this couple,</hi> as <hi>I<g ref="char:EOLhyphen"/>ſaac</hi> and <hi>Rebecca,</hi> proceeded rather from the holy Ghoſts <hi>inſpiration,</hi> than from <hi>humane invention;</hi> becauſe if from man onely, he would have gone upon <hi>reaſon,</hi> and made the prayer thus, bleſſe them as <hi>Abraham</hi> and <hi>Sarah,</hi> or bleſſe them as <hi>Jacob</hi> and <hi>Rachel;</hi> for <hi>Abraham</hi> was Gods firſt <hi>friend, jacob</hi> was Gods great <hi>friend;</hi> yet neither ſo, nor ſo, but as <hi>Iſaac</hi> and <hi>Rebecca;</hi> becauſe <hi>Abraham</hi> had his <hi>Hagar,</hi> one <hi>Concubine; Jacob</hi> had his <hi>Zilkah</hi> and his <hi>Bilkah</hi> two at leaſt, <hi>Iſaac</hi> never any but his <hi>Rebecca?</hi>
+               </p>
+               <p n="34">34. Whether I do not believe, That that <hi>prayer, Pre<g ref="char:EOLhyphen"/>vent us O Lord in all our doings, &amp;c.</hi> be not abſolutely a<g ref="char:EOLhyphen"/>gainſt thoſe <hi>great points of Popery,</hi> concerning works of <hi>preoperation</hi> and <hi>cooperation,</hi> grounded upon that of St. <hi>Paul, Eph.</hi> 2.8. and ſo no kin to the <hi>Maſs Book?</hi>
+               </p>
+               <p n="34">34. VVhether I do not believe the <hi>Creed of the Apoſtles</hi> is every word in the Scripture, <hi>viz. I believe,</hi> Mark 9 24. <hi>in God</hi> John 14 1. <hi>the Father,</hi> 1 Cor. 1.3. <hi>Almighty,</hi> Gen. 17.1. <hi>maker of heaven and earth,</hi> Gen. 1.1. <hi>and in Jeſus Chriſt his only Son our Lord,</hi> Rom. 1.3. <hi>which was conceived by the holy Ghost, and born of the Virgin</hi> Mary, Luke 1.35. <hi>ſuffered under</hi> Pontius Pilate, John 19.1. <hi>was Crucified</hi> John 19.18. <hi>Dead</hi> John 19.30. <hi>and Buried,</hi> John 19.42. <hi>He deſcended into Hell,</hi> Act 2.27. <hi>the third day he roſe again from the dead,</hi> 1 Cor. 15.4. <hi>He aſcended into Heaven, and ſitteth at the right-hand of God,</hi> Mar. 10.19. <hi>From thence he ſhall come to judge the quick and the dead.</hi> Act 10.42. <hi>And in the holy Ghoſt,</hi> Mat. 28.19. <hi>The holy Catholick Church the communion of Saints,</hi> Epheſ. 5.27. <hi>the forgiveneſs of ſins,</hi>
+                  <pb n="10" facs="tcp:40707:6"/>Col. 1.14. <hi>The Reſurrection of the Body,</hi> 1 Cor. 15.35. <hi>and life everlaſting,</hi> John 10.28.</p>
+               <p n="36">36. VVhether I do believe the Feaſts of <hi>Chriſtmaſs, Ea<g ref="char:EOLhyphen"/>ſter</hi> and <hi>whitſuntide</hi> have been obſerved by the <hi>pureſt</hi> and <hi>Primitive Churches,</hi> and commanded upon as to obſerve the ſame? <hi>Clem. ep. decret, Teleſph. p.</hi> 117. <hi>Cyprian de Na<g ref="char:EOLhyphen"/>tiv. Chriſti, Nazian. Orat.</hi> 38. <hi>Chryſoſt. hom in Nativ<g ref="char:punc">▪</g> Chri<g ref="char:EOLhyphen"/>ſti. The Church of Helvetias confeſs, c.</hi> 24. <hi>The Church of Bo<g ref="char:EOLhyphen"/>hemia, c.</hi> 15. <hi>The Church of Bremen, Regiſt.</hi> 2. <hi>fine, the Church of Auſpurge confeſſ. act.</hi> 4.</p>
+               <p n="37">37. Whether I do not believe, The Lord b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with thee; and with thy <hi>Spirit, equivalent</hi> to <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>uth. 2.4.</p>
+               <p n="38">38. Whether I do not believe St. <hi>Paul</hi> ſpake <hi>Scripture,</hi> when he ſaid, and bid us pray with the <hi>ſpirt</hi> a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d with the <hi>underſtanding,</hi> and whether <hi>I</hi> do not ſometimes pray without the <hi>underſtanding,</hi> when <hi>I</hi> think <hi>I</hi> pray by the <hi>ſpirit.</hi>
+               </p>
+               <p n="39">39. VVhether <hi>I</hi> do not believe, That therefore I have done very ill to excommunicate the <hi>Engliſh Common Prayer Book,</hi> which by moſt <hi>Divines</hi> hath been cal ed <hi>op<g ref="char:EOLhyphen"/>timum Breviarium,</hi> and ſo inſtead of it, have ſet up a <hi>Dire<g ref="char:EOLhyphen"/>ctory,</hi> which ſpeaks nothing ſo much, as the <hi>ſixth ſence,</hi> and hath no better Derivation than from the <hi>Directarii?</hi> But <hi>I</hi> am in earneſt, and earneſtly deſire of <hi>Almighty God,</hi> that if the <hi>Presbyterian</hi> be determined to go on in his <hi>opini<g ref="char:EOLhyphen"/>on;</hi> yet that we may joyn together in all <hi>Chriſtian affecti<g ref="char:EOLhyphen"/>on,</hi> and ſo meet in heaven, in everlaſting <hi>Union;</hi> for till I am convinced upon the former <hi>Queries, I</hi> am reſolved ne<g ref="char:EOLhyphen"/>ver to be of their <hi>communion</hi> upon <hi>earth;</hi> though <hi>I</hi> wiſh them increaſe of <hi>ſanctity,</hi> while they live; and eternity of <hi>happineſſe</hi> when they dye, through <hi>Ieſus Chri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t,</hi> Amen.</p>
+            </div>
+            <div type="part">
+               <pb n="11" facs="tcp:40707:6"/>
+               <head>III. <hi>Whether</hi> Romane?</head>
+               <p>I Am as far from <hi>Rome,</hi> as <hi>I</hi> am from <hi>Geneva;</hi> yet finding the <hi>Romane</hi> poſſeſt with more of the <hi>water,</hi> &amp; the <hi>Pres<g ref="char:EOLhyphen"/>byterian</hi> with more of the <hi>fire, I</hi> hope ſome moderation may in time cement <hi>England</hi> and <hi>Rome</hi> into the <hi>Catholick,</hi> ſo ſtrongly, as never hereafter to be diſſolved, or melted by the fury of zeal: You and you only <hi>I</hi> confeſſe have the <hi>face</hi> of a Church, and <hi>I</hi> hope you will not deny us the <hi>Form,</hi> and <hi>Being</hi> of a <hi>Church;</hi> ſince <hi>I</hi> believe there is ſo much ingenuity and wiſdom in you, as to diſtinguiſh be<g ref="char:EOLhyphen"/>twixt a <hi>Church extinguiſhed</hi> and <hi>eclipſed</hi> or <hi>perſecuted:</hi> The Church of <hi>England I</hi> acknowledge is under a cloud and <hi>eclipſed,</hi> but the <hi>Candle</hi> is not quite out and <hi>extinguiſhed:</hi> Whereſoever two or three (of the <hi>Catholick Church</hi>) are gathered together, there is <hi>Ch<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iſt</hi> in the midſt of them, ſo was his promiſe <hi>Matt.</hi> 18.20. And whereſoever a lawful <hi>Prieſt</hi> or <hi>Paſtour</hi> of the <hi>Engliſh Church</hi> is with <hi>two</hi> or <hi>three</hi> of his Congregation, <hi>I</hi> will not, <hi>I</hi> dare not doubt of the performance. If you have leſſe <hi>charity,</hi> either in the taking or miſtaking of it, <hi>I</hi> ſhall propoſe ſome few <hi>Queries</hi> in my own <hi>name,</hi> as one of you, though <hi>I</hi> thank God <hi>I</hi> am none of you, not ever intend to be in opinion, howſoever in affection, becauſe you are my next <hi>neighbour; I</hi> therefore love you <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s my ſelf.</p>
+               <p n="1">1. VVhether <hi>I</hi> do believe Romane and Catholick are <hi>Termini co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>vertiblies?</hi>
+               </p>
+               <p n="2">2. Whether <hi>I</hi> do believe, <hi>I</hi> may be ſaved, if <hi>I pray</hi> as the <hi>Catholick Church</hi> doth, and was taught by Chriſt, <hi>Our fa<g ref="char:EOLhyphen"/>the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> which art in heaven;</hi> though I do not pray, as the Ro<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n Church doth, and teacheth, <hi>O thou mother of God,</hi> St. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>er,</hi> St. <hi>Paul pray for me?</hi>
+               </p>
+               <pb n="12" facs="tcp:40707:7"/>
+               <p n="3">3. Whether if I do believe as the Primitive and Ca<g ref="char:EOLhyphen"/>tholick Church did and doth, and hath taught the <hi>Apo<g ref="char:EOLhyphen"/>ſtles Creed,</hi> though <hi>I</hi> do not believe as the Roman Church doth, the Creed of the Councel of <hi>Trent,</hi> I may be ſav'd?</p>
+               <p n="4">4. VVhether if <hi>I</hi> endeavour to live after Gods Com<g ref="char:EOLhyphen"/>mandments, and obey him, though I do not endeavour to live after my ſuperiors command, <hi>I</hi> may be ſaved?</p>
+               <p n="5">5. Whether if I receive the <hi>Sacrament</hi> of the <hi>Euchariſt</hi> as Chriſt Inſtituted and Commanded me to receive it, in both kinds, <hi>Bread</hi> and <hi>Wine, Fleſh</hi> and <hi>Blood,</hi> though I do not receive it as the Church of <hi>Rome</hi> hath abrogated it, and Commanded to receive, in one <hi>kind</hi> only, I may be ſaved?</p>
+               <p n="6">6. Whether my conſcience can be ſatisfied by the de<g ref="char:EOLhyphen"/>vice of concomitants that the <hi>Blood</hi> is given in the <hi>Body,</hi> ſince in the <hi>Euchariſt</hi> the <hi>Blood</hi> is to be given as ſhed, not kept, as poured out, not contained in the Body?</p>
+               <p n="7">7. Whether if <hi>I</hi> be born again, and made a <hi>Chriſtian</hi> by true <hi>Baptiſm,</hi> and afterward confirmed by a true <hi>Biſhop,</hi> though I am not annointed with oyl, I may be ſaved?</p>
+               <p n="8">8. Whether if <hi>I</hi> believe the Scripture, and frame my life according, though I do not equally believe Tradition <hi>I</hi> may be ſaved?</p>
+               <p n="9">9. VVhether if I ſerve and worſhip God in Spirit and in Truth, though I worſhip no images, nor God by ima<g ref="char:EOLhyphen"/>ges, I may be ſaved?</p>
+               <p n="10">10. VVhether I may not be ſaved, if I believe in Gods mercies through Chriſts merits, though I put no confi<g ref="char:EOLhyphen"/>dence in merits of my own works?</p>
+               <p>Theſe <hi>Queries</hi> with a very few more by moderate and, unbyaſſed men, might be brought to a reconciliation, and that they may be, <hi>I</hi> pray you let us joyn in one Prayer, till we joyn in all points.</p>
+               <pb n="13" facs="tcp:40707:7"/>
+               <p>O Moſt merciful God, who haſt made all Mankind of one; O moſt merciful God, who haſt contracted all the Elect of Mankind into one Body, thy Church; and haſt given the whole Church but one Soul, thy Spi<g ref="char:EOLhyphen"/>rit; and that Soul but one Life, thy Faith; and that Faith but one prop, one Goſpel, one Baptiſm, one Lords Supper; and this one Body and one Soul, but one Head, thy ſelf, who art but one Lord, and haſt again diſperſed this Body into ſeveral Aſſemblies and Societies, and haſt made each Society and Aſſembly but one; thereby in<g ref="char:EOLhyphen"/>timating to us, that we ſhould all have but one Heart and one Mind; In mercy we beſeech thee look upon thy Church, and make her as thy Son did leave her, One; one in Opinion and one in affection, that ſhe may be no long<g ref="char:EOLhyphen"/>er crucified betwixt Hereticks and Schiſmaticks, Thieves of thy Truth; betwixt profligates and hypocrites, thieves of thy Grace; betwixt Zelots and Superſtitious, thieves of thy Honor: but by virtue of thy Sons <hi>Golgotha,</hi> dry up <hi>Akeldama,</hi> and for the <hi>merit</hi> of <hi>Calvary,</hi> Deliver, O deliver her from all her preſent miſery; Relieve her from Force without, and Fury within, both againſt her; Reſcue her from civil Enemies, and crafty Children, both which fall upon her; Suffer not Reeds any longer to be thy Scepters, nor Chairs thy Throne, nor Tricks thy Order, nor Rudeneſs in one part, nor Superſtition in another part, thy Service; nor Miſcreants thy W<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſhippers, nor Confuſion thy Religion, nor Wild-<gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Zeal, nor Lunacies thy Reſolutions, nor De<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Spirit; but appear by her once more in <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>rit of Peace and Purity, of Sanctity <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Wiſdome and Sobriety, that all <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Church by thy Livery, which tho<gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Love, Peace and Patience; and <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb n="14" facs="tcp:40707:8"/>may be guided by thy One Church, in the right way of Truth into Heaven, through <hi>Jeſus Chriſt</hi> Amen. In whoſe bleſſed Name and words we further call upon thee, as he hath taught us in his Holy Goſpel, ſaying</p>
+               <p>Our Father which art in heaven, Hallowed be thy name; Thy Kingdome come, Thy will be done in Earth, as &amp;c. Give us this day our daily bread, And forgive us our treſ<g ref="char:EOLhyphen"/>paſſes, as &amp;c. And lead us not into Tentation, but &amp;c. For thine is the Kingdom, Power and Glory<g ref="char:punc">▪</g> &amp;c.</p>
+            </div>
+            <div type="part">
+               <head>Or <hi>IV.</hi> continue what I am, <hi>Catholick?</hi>
+               </head>
+               <p>I Deſire ſo to continue, though I ſtarve for it; For I have not took up this <hi>Religion</hi> upon <hi>Tradition</hi> or <hi>E<g ref="char:EOLhyphen"/>ducation,</hi> but upon <hi>Judgment</hi> and <hi>Deliberation;</hi> And inſtead of <hi>Queries</hi> and <hi>Caſes of Conſcience,</hi> I offer to my ſelf theſe <hi>Irrefragable Propoſitions.</hi>
+               </p>
+               <p n="1">1. If I pray aright according to the <hi>Patter<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> of <hi>Devo<g ref="char:EOLhyphen"/>tion</hi> ſum'd up in the <hi>Lords Prayer,</hi> I ſhall be heard.</p>
+               <p n="2">2. If I repent aright according to the <hi>Prophets</hi> and <hi>A<g ref="char:EOLhyphen"/>poſtles Direction,</hi> with the <hi>Contrition</hi> of <hi>my Heart,</hi> with the <hi>Confeſſion</hi> of my <hi>Lips,</hi> and the <hi>Endeavour</hi> of my <hi>Life;</hi> I ſhall be forgiven. <hi>Joel.</hi> 2. 2 <hi>Cor.</hi> 7.</p>
+               <p n="3">3. If I do right according to <hi>Gods will</hi> in his <hi>Word,</hi> ſum'd up in his <hi>Decalogue,</hi> or Ten <hi>Commandments,</hi> though not <hi>abſolutely</hi> and <hi>enactly,</hi> yet <hi>uprightly</hi> and <hi>Evangelically: I</hi> ſhall be accepted.</p>
+               <p n="4">4. If I believe aright according to <hi>Gods Goſpel,</hi> ſum'd up in the <hi>Apoſtles Creed,</hi> without <hi>doubting,</hi> without <hi>diſ<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>uſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ng,</hi> without <hi>deſparing,</hi> I ſhall be ſaved.</p>
+               <p n="5">5. If I receive <hi>Chriſts</hi> holy <hi>Sacraments,</hi> as he did <hi>insti<g ref="char:EOLhyphen"/>tute,</hi>
+                  <pb n="15" facs="tcp:40707:8"/>and <hi>appoint</hi> them, not onely as <hi>Signs,</hi> but <hi>means</hi> of <hi>Grace,</hi> not onely as <hi>Aſſurances</hi> of <hi>Salvation,</hi> but <hi>Convey<g ref="char:EOLhyphen"/>ances</hi> of Sanctification, I ſhall be glorified.</p>
+               <p>And my <hi>Religion</hi> being ſo good, I deſire not to change but to continue as I am; and for that I praiſe <hi>Gods mercy,</hi> and pray for <hi>Gods bleſſing.</hi>
+               </p>
+               <p>My <hi>Religion</hi> is <hi>good,</hi> for it is <hi>Gods;</hi> my <hi>Calling</hi> is <hi>Law<g ref="char:EOLhyphen"/>ful,</hi> for it is of God; my Service is honorable, for it is for God and my Savior, my meſſage in which I am employed is <hi>honourable,</hi> for it is of Peace, and to be an Inſtrument of Reconciliation betwixt God and his People, and my pro<g ref="char:EOLhyphen"/>ceeding in it, if it be as it ought to be, in Love, ſhall be acceptable; Joyfully I may do it, for God will reward it; Freely I may do it, for God will make it good; Boldly I may do it, for God will defend it; and inceſſantly I ſhould do it, for firſt or laſt God will give a bleſſing to it.</p>
+               <p>But who, who is worthy to do this weighty buſineſs? not the beſt of men, how much more unworthy am I the worſt of men and chief of Sinners? Truly of my ſelf I am as unworthy as unable, and unworthy to be enabled, if thou enter in Judgment with me, That thou mayeſt not, I thus addreſs my ſelf to thy Throne of Grace.</p>
+               <p>Look upon me O my God in the face of Jeſus Chriſt I beſeech thee, and for his ſake aſſiſt me with thy Spirit, That I may ſpeak thy word, leſt I be guilty of careleſnes; That I may not ſpeak before I Learn, leſt <hi>I</hi> be guilty of Raſhneſs. That <hi>I</hi> may Learn and Speak, leſt <hi>I</hi> be guilty of idleneſs; That <hi>I</hi> may not ſpeak to the Ear, leſt <hi>I</hi> be guil<g ref="char:EOLhyphen"/>ty of Flattery; That <hi>I</hi> may ſpeak to the Heart, and ſo be a means of other mens ſalvation; and when <hi>I</hi> have prea<g ref="char:EOLhyphen"/>ched
+<pb n="16" facs="tcp:40707:9"/>to others, That <hi>I</hi> may not be a Caſtaway my ſelf: Sanctifie me with thy Spirit <hi>I</hi> beſeech Thee; That <hi>I</hi> may aſwell live as ſpeak Divinity; Let thy Glory be my chief, Thy peoples and my own ſafety my next Aim; That <hi>I</hi> may not bring a wo to thy Flock, Give me Learning; that <hi>I</hi> may not bring wo to my ſelf, Give me Diligence; that <hi>I</hi> may not bring Diſhonor to thee, Give me Diſcre<g ref="char:EOLhyphen"/>tion; Deliver me from the miſery of Starving thy Flock, for want of skill; Deliver me from the Cruelty of ſtar<g ref="char:EOLhyphen"/>ving thy Flock, for want of will; Deliver me from a fruit<g ref="char:EOLhyphen"/>leſs induſtry in feeding thy Flock, for want of Prudence; make me painful in my Study, powerful in my Pulpit; Fervent in my Piety, Holy in my Converſation, Succeſ<g ref="char:EOLhyphen"/>ful in all; That <hi>I</hi> may be diſcharged of the Bloud of all thoſe Souls Committed to my Charge: it is a precious People, for thou haſt purchaſed them at a dear Rate, even with Bloud, with thy Bloud, with thy precious Bloud: Let them be precious too in my Eſteem, That <hi>I</hi> may preach to them in Seaſon and out of Seaſon, not onely by Speaking well, but Living better: help their underſtand<g ref="char:EOLhyphen"/>ings in my knowledg of Divinity, better their Wills in my Pract<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe of Divinity; Supply them and my ſelf for th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Life and the next out of thine own Fulneſs; and Crown my Labours with the Converſion of ſuch Souls, as thou haſt Ordained to Life Eternal, Through Jeſus Chriſt: In whoſe moſt Bleſſed Name and Words, <hi>I</hi> further call upon Thee, as He hath Taught.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:40707:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
